@@ -1,5 +1,7 @@
-UniWallet Post-Competition Validation: Does Feature Breadth or Engagement Drive Retention?
+UniWallet Post-Competition Validation: 
+## Does Feature Breadth or Engagement Drive Retention?
 A data-backed follow-up to Team Catalyst Crew's ProduScope submission
+
 ## Context
 
 During ProduScope (IIT Guwahati), our team built UniWallet, a student-first fintech MVP, and used RICE/MoSCoW to prioritize a lean core (Financial Literacy Nuggets, Allowance Mode) over feature-heavy additions (Smart Price Comparison, Brand Tie-Ups). This was a judgment call made under competition time constraints, without external data to confirm it. This project tests that judgment against real usage data.
