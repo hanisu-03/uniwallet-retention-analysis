@@ -4,6 +4,9 @@ A data-backed follow-up to Team Catalyst Crew's ProduScope submission
 
 During ProduScope (IIT Guwahati), our team built UniWallet, a student-first fintech MVP, and used RICE/MoSCoW to prioritize a lean core (Financial Literacy Nuggets, Allowance Mode) over feature-heavy additions (Smart Price Comparison, Brand Tie-Ups). This was a judgment call made under competition time constraints, without external data to confirm it. This project tests that judgment against real usage data.
 
+## Related Work
+Original competition submission: [UniWallet — ProduScope Deck](Catalyst_Crew_.pdf)
+
 2. Question
 
 Does having more financial products/features increase customer retention, or does a focused core retain users better? And does active engagement matter more than product breadth?
