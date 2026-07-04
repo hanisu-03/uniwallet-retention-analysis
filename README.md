@@ -13,6 +13,8 @@ Does having more financial products/features increase customer retention, or doe
 Analyzed a public 10,000-customer bank dataset (Kaggle) as a behavioral proxy, since no UniWallet usage data exists yet. Defined a proxy activation funnel (signed up → has product → actively engaged → funded account → retained) since the dataset lacks timestamped events — noted as directional, not exact. Queried churn rate segmented by number of products and by active-membership status using SQL.
 
 4. Findings 
+
+
 **Churn by number of products:**
 
 | Products | Customers | Churn Rate |
