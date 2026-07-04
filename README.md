@@ -51,6 +51,3 @@ Move Brand Tie-Ups from "Should-have" to "Won't-have for Phase 1" on the MoSCoW 
 
 This is a proxy analysis using an unrelated bank dataset, not real UniWallet user data. The 3-4 product churn figures come from small sample sizes. Findings are directional signals to sanity-check product strategy, not conclusive proof.
 
-8. What I'd do with real UniWallet data
-
-Track number of features adopted per user in the first 30 days against 90-day retention, and compare against daily-active-usage as a predictor, to see if this pattern replicates with actual student users.
